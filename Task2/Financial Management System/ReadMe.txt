@@ -1,4 +1,4 @@
-/BankManagementSystem
+/FinanCial_Management_System
     /src
         /model
             - Person.java
@@ -17,4 +17,4 @@
         /utils
             - Helper.java (optional, for utility methods like input validation)
         /test
-            - BankManagementSystemTest.java (JUnit tests for the system)
+            - Financial_Management_SystemTest.java (JUnit tests for the system)
